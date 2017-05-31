@@ -16,6 +16,10 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	/*Panoptico SA mas rande*/
+	#logo {
+		font-size: 140%;
+	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
